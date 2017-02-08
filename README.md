@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-RandomAppsInc is a Google Play Developer handle primarily operated by Alex Chiou, which provides free, ad-free, and open-source Android apps.
+[RandomAppsInc](https://play.google.com/store/apps/dev?id=9093438553713389916) is a Google Play Developer handle primarily operated by Alex Chiou, which provides free, ad-free, and open-source Android apps.
 
 This page is used to inform app users regarding our policies with the collection, use, and disclosure of personal information for anyone who decides to use our services.
 
