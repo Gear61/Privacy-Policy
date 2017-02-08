@@ -6,7 +6,7 @@ This page is used to inform app users regarding our policies with the collection
 
 **Information Collection and Use**
 
-For some of our apps, we may require you to provide us with certain personally identifiable information, including, but not limited to, your name, phone number, and contacts information. **We never collect or store any of your personal information; we only ask for permissions in order for our apps to function.** None of our apps which ask for these permissions even have access to the internet; you can always verify the veracity of this statement by reading the source code of our apps, which is all publicly available on this GitHub account.
+For some of our apps, we may require you to provide us with certain personally identifiable information, including, but not limited to, your name, phone number, and contacts information. **We never collect or store any of your personal information; we only ask for permissions in order for our apps to function.** None of our apps which ask for these permissions even have access to the internet; one can always verify the veracity of this statement by reading the source code of our apps, which is all publicly available on [this GitHub account](https://github.com/Gear61?tab=repositories).
 
 **Changes to This Privacy Policy**
 
