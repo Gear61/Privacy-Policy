@@ -10,7 +10,7 @@ For some of our apps, we may require you to provide us with certain personally i
 
 **Changes to This Privacy Policy**
 
-We may update our privacy policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new privacypPolicy on this page. Any changes are effective immediately after they are posted on this page.
+We may update our privacy policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new privacy policy on this page. Any changes are effective immediately after they are posted on this page.
 
 **Contact Us**
 
